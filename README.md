@@ -3,11 +3,10 @@ This project analyzes Diwali sales data using Python (Pandas, Matplotlib, Seabor
 
 🎯 Business Problem
 
-Retail businesses generate high revenue during festive seasons like Diwali, but without data analysis, it is difficult to:
-Identify high-value customer segments
-
+Retail businesses generate high revenue during festive seasons like Diwali, but without data analysis, it is difficult to:Identify high-value customer segments
 Understand which products drive maximum revenue
-Optimize targeted marketing campaigns
+
+Optimize targeted marketing 
 Allocate inventory efficiently
 This project solves these challenges using data-driven analysis.
 
